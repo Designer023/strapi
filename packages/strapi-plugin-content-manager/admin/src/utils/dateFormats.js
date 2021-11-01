@@ -8,7 +8,7 @@ import { dateFormats as defaultDateFormats } from 'strapi-helper-plugin';
 
 const dateFormats = {
   ...defaultDateFormats,
-  // Customise the format by uncommenting the one you wan to override it corresponds to the type of your field
+  // Customise the format by uncommenting the one you want to override it corresponds to the type of your field
   // date: 'dddd, MMMM Do YYYY',
   //  datetime: 'dddd, MMMM Do YYYY HH:mm',
   // time: 'HH:mm A',
